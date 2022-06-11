@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/numeros/__init__.py
+src/numeros/lectura.py
+src/numeros/romanos.py
+src/numeros_vdagoliath.egg-info/PKG-INFO
+src/numeros_vdagoliath.egg-info/SOURCES.txt
+src/numeros_vdagoliath.egg-info/dependency_links.txt
+src/numeros_vdagoliath.egg-info/top_level.txt
