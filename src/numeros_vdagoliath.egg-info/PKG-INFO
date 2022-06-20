@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: numeros-vdagoliath
-Version: 0.0.1
+Version: 0.0.3
 Summary: Tratamiento de números
 Home-page: https://github.com/vdagoliath/numeros
 Author: Victor Daniel Arteaga Goliath
@@ -9,12 +9,12 @@ Project-URL: Bug Tracker, https://github.com/vdagoliath/numeros/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.8
+Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
 # Numeros
 
 Es un sencillo paquete para tratar números. El paquete actualmente permite:
-- Convertir un número no mayor que 300 en número romano
-- Convertir un número en su correspondiente lectura en letras.
+- Convertir un número no mayor que 3000 a número romano
+- Convertir un número en su correspondiente lectura en letras. Soporta números de hasta miles de cuatrillones
